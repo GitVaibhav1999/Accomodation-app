@@ -1,0 +1,667 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+MERGED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/26f6798e1ec4a47a16bbfda4737e3bca/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:keyboard_visibility] /home/vaibhav/FacebookLoginAndListingProducts/build/keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_facebook_login] /home/vaibhav/FacebookLoginAndListingProducts/build/flutter_facebook_login/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /home/vaibhav/FacebookLoginAndListingProducts/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_twitter] /home/vaibhav/FacebookLoginAndListingProducts/build/flutter_twitter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:18:1-35:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/23ac19d27b355042d61c5b0cd4b42432/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/84b1e486762c2dde3608ebf3a6a31f0c/firebase-core-16.0.9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/dc849df614f402d186da4d5f3916ac08/firebase-analytics-16.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.android:facebook-login:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5f736e8f1243b1cedc4b817586b10d24/jetified-facebook-login-4.39.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a7cf645d8823abc9be74c1c7fe2f7b55/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ae00a4b7adbb601b9897a9864ccf471d/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/682eefe8450c515b1de66d8d5c05ecbf/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a1675f90c5ec601b3d2346302e5beb50/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8a51247c0d24453e61967399bde4bae8/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c63e5c18907c36101f6d60fe99fca62d/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a5001dd50daf710fd0d2a59606ef398/jetified-play-services-measurement-base-16.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/d1770687fc4e007690ad138cff092390/jetified-play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4adce4822eeacd852ba65acb7111390e/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/60d3ed3a816e86fc72ad6d71d35d1456/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:21:1-37:12
+MERGED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/bcd05e8a0b9be604c7499f9806769fde/firebase-database-collection-16.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/1d157e29b8017e3626e93be6b9a8ec43/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a54bef134b044d236c1e994e73f3da3f/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/fe875202759ace55c668677c40e3c7bd/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/3dc84740b6194d3cbda13430787683e2/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df3ce475aa4ed38efc3f47b955505925/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4b650d79e6802d147079650329ad58c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/2e2a659e696f8e7d3340c29f61c83c6a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/661e6be6dd09c90879a538362b178e8e/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a7be4d7d2504030d847ae40e39c468ce/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ee6b401f71594174ea6d12f24ac8e371/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/6dcfe9c402810aa38a8828de540d52b6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/fdb8ed0e60382337d6c3b66c65074136/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c384dd48e2b359b7a566e118894f1c7f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/198b917316e651b2f0fd4ad3817e978d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/7daa265c4096fa6e90d7a6899e13f8b4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/94e748b0b7ff21e771ed2583df5487f5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aa2035b1035b9cb7aa4154f87d58e48a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df6cf23cc51da578d8b158de17d0c9cb/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/00c47af6a5c38c31b977843da568d35b/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aefbed8c442a61c20bbad6e44b256226/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c0bcbfb021564b3b41a4611a164498f0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/3c765db1ed5a358b855c88f3ebc4e5cb/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/234d8388d3548014233e9d14d722b8ec/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e39ea6fc52811cacf50dc270a17f570b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/52dcc73869b7158e599defb0368bf1c9/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a67c6ac479c7b252cb96801ba61ddf3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/cf85dc30ab6cacc9944b3909bc2d8d12/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/815016ef3aebfedeaa2d6423587d9f8e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/177cc4424ff59fc27b8bf556be7daa63/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:1-50:12
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:9:5-49:19
+MERGED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/23ac19d27b355042d61c5b0cd4b42432/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/23ac19d27b355042d61c5b0cd4b42432/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/84b1e486762c2dde3608ebf3a6a31f0c/firebase-core-16.0.9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/84b1e486762c2dde3608ebf3a6a31f0c/firebase-core-16.0.9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/dc849df614f402d186da4d5f3916ac08/firebase-analytics-16.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/dc849df614f402d186da4d5f3916ac08/firebase-analytics-16.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.android:facebook-login:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5f736e8f1243b1cedc4b817586b10d24/jetified-facebook-login-4.39.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5f736e8f1243b1cedc4b817586b10d24/jetified-facebook-login-4.39.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a1675f90c5ec601b3d2346302e5beb50/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a1675f90c5ec601b3d2346302e5beb50/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8a51247c0d24453e61967399bde4bae8/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8a51247c0d24453e61967399bde4bae8/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c63e5c18907c36101f6d60fe99fca62d/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c63e5c18907c36101f6d60fe99fca62d/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a5001dd50daf710fd0d2a59606ef398/jetified-play-services-measurement-base-16.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a5001dd50daf710fd0d2a59606ef398/jetified-play-services-measurement-base-16.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/d1770687fc4e007690ad138cff092390/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/d1770687fc4e007690ad138cff092390/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4adce4822eeacd852ba65acb7111390e/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4adce4822eeacd852ba65acb7111390e/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/60d3ed3a816e86fc72ad6d71d35d1456/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/60d3ed3a816e86fc72ad6d71d35d1456/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df6cf23cc51da578d8b158de17d0c9cb/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df6cf23cc51da578d8b158de17d0c9cb/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/00c47af6a5c38c31b977843da568d35b/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/00c47af6a5c38c31b977843da568d35b/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df6cf23cc51da578d8b158de17d0c9cb/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5f736e8f1243b1cedc4b817586b10d24/jetified-facebook-login-4.39.0/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:11:9-37
+	android:icon
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.typemyletter.MainActivity
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:29:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:32:9-33:50
+	android:value
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:33:9-48
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:32:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:35:5-38:44
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:38:9-41
+	android:configChanges
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:36:9-109
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:35:15-59
+activity#com.facebook.CustomTabActivity
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:39:5-48:16
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:41:9-32
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:40:9-54
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:42:9-47:25
+action#android.intent.action.VIEW
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:43:21-62
+category#android.intent.category.DEFAULT
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:44:13-72
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:44:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:45:23-71
+data
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:46:13-71
+	android:scheme
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml:46:19-68
+uses-sdk
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/26f6798e1ec4a47a16bbfda4737e3bca/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/26f6798e1ec4a47a16bbfda4737e3bca/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:keyboard_visibility] /home/vaibhav/FacebookLoginAndListingProducts/build/keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:keyboard_visibility] /home/vaibhav/FacebookLoginAndListingProducts/build/keyboard_visibility/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] /home/vaibhav/FacebookLoginAndListingProducts/build/flutter_facebook_login/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] /home/vaibhav/FacebookLoginAndListingProducts/build/flutter_facebook_login/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/vaibhav/FacebookLoginAndListingProducts/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/vaibhav/FacebookLoginAndListingProducts/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_twitter] /home/vaibhav/FacebookLoginAndListingProducts/build/flutter_twitter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_twitter] /home/vaibhav/FacebookLoginAndListingProducts/build/flutter_twitter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:23:5-44
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/23ac19d27b355042d61c5b0cd4b42432/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/23ac19d27b355042d61c5b0cd4b42432/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/84b1e486762c2dde3608ebf3a6a31f0c/firebase-core-16.0.9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/84b1e486762c2dde3608ebf3a6a31f0c/firebase-core-16.0.9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/dc849df614f402d186da4d5f3916ac08/firebase-analytics-16.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/dc849df614f402d186da4d5f3916ac08/firebase-analytics-16.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.android:facebook-login:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5f736e8f1243b1cedc4b817586b10d24/jetified-facebook-login-4.39.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5f736e8f1243b1cedc4b817586b10d24/jetified-facebook-login-4.39.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a7cf645d8823abc9be74c1c7fe2f7b55/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a7cf645d8823abc9be74c1c7fe2f7b55/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ae00a4b7adbb601b9897a9864ccf471d/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ae00a4b7adbb601b9897a9864ccf471d/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/682eefe8450c515b1de66d8d5c05ecbf/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/682eefe8450c515b1de66d8d5c05ecbf/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a1675f90c5ec601b3d2346302e5beb50/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a1675f90c5ec601b3d2346302e5beb50/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8a51247c0d24453e61967399bde4bae8/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8a51247c0d24453e61967399bde4bae8/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c63e5c18907c36101f6d60fe99fca62d/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c63e5c18907c36101f6d60fe99fca62d/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a5001dd50daf710fd0d2a59606ef398/jetified-play-services-measurement-base-16.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a5001dd50daf710fd0d2a59606ef398/jetified-play-services-measurement-base-16.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/d1770687fc4e007690ad138cff092390/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/d1770687fc4e007690ad138cff092390/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4adce4822eeacd852ba65acb7111390e/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4adce4822eeacd852ba65acb7111390e/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/60d3ed3a816e86fc72ad6d71d35d1456/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/60d3ed3a816e86fc72ad6d71d35d1456/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/bcd05e8a0b9be604c7499f9806769fde/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/bcd05e8a0b9be604c7499f9806769fde/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/1d157e29b8017e3626e93be6b9a8ec43/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/1d157e29b8017e3626e93be6b9a8ec43/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a54bef134b044d236c1e994e73f3da3f/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a54bef134b044d236c1e994e73f3da3f/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/fe875202759ace55c668677c40e3c7bd/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/fe875202759ace55c668677c40e3c7bd/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/3dc84740b6194d3cbda13430787683e2/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/3dc84740b6194d3cbda13430787683e2/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df3ce475aa4ed38efc3f47b955505925/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df3ce475aa4ed38efc3f47b955505925/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4b650d79e6802d147079650329ad58c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/4b650d79e6802d147079650329ad58c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/2e2a659e696f8e7d3340c29f61c83c6a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/2e2a659e696f8e7d3340c29f61c83c6a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/661e6be6dd09c90879a538362b178e8e/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/661e6be6dd09c90879a538362b178e8e/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a7be4d7d2504030d847ae40e39c468ce/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/a7be4d7d2504030d847ae40e39c468ce/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ee6b401f71594174ea6d12f24ac8e371/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ee6b401f71594174ea6d12f24ac8e371/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/6dcfe9c402810aa38a8828de540d52b6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/6dcfe9c402810aa38a8828de540d52b6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/fdb8ed0e60382337d6c3b66c65074136/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/fdb8ed0e60382337d6c3b66c65074136/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c384dd48e2b359b7a566e118894f1c7f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c384dd48e2b359b7a566e118894f1c7f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/198b917316e651b2f0fd4ad3817e978d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/198b917316e651b2f0fd4ad3817e978d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/7daa265c4096fa6e90d7a6899e13f8b4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/7daa265c4096fa6e90d7a6899e13f8b4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/94e748b0b7ff21e771ed2583df5487f5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/94e748b0b7ff21e771ed2583df5487f5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aa2035b1035b9cb7aa4154f87d58e48a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aa2035b1035b9cb7aa4154f87d58e48a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df6cf23cc51da578d8b158de17d0c9cb/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/df6cf23cc51da578d8b158de17d0c9cb/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/00c47af6a5c38c31b977843da568d35b/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/00c47af6a5c38c31b977843da568d35b/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aefbed8c442a61c20bbad6e44b256226/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aefbed8c442a61c20bbad6e44b256226/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c0bcbfb021564b3b41a4611a164498f0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/c0bcbfb021564b3b41a4611a164498f0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/3c765db1ed5a358b855c88f3ebc4e5cb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/3c765db1ed5a358b855c88f3ebc4e5cb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/234d8388d3548014233e9d14d722b8ec/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/234d8388d3548014233e9d14d722b8ec/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e39ea6fc52811cacf50dc270a17f570b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e39ea6fc52811cacf50dc270a17f570b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/52dcc73869b7158e599defb0368bf1c9/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/52dcc73869b7158e599defb0368bf1c9/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a67c6ac479c7b252cb96801ba61ddf3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/0a67c6ac479c7b252cb96801ba61ddf3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/cf85dc30ab6cacc9944b3909bc2d8d12/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/cf85dc30ab6cacc9944b3909bc2d8d12/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/815016ef3aebfedeaa2d6423587d9f8e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/815016ef3aebfedeaa2d6423587d9f8e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/177cc4424ff59fc27b8bf556be7daa63/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/177cc4424ff59fc27b8bf556be7daa63/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in] /home/vaibhav/FacebookLoginAndListingProducts/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /home/vaibhav/FacebookLoginAndListingProducts/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/vaibhav/FacebookLoginAndListingProducts/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_database] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/vaibhav/FacebookLoginAndListingProducts/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/e5217dc74abd83cf0d74d8fe4844f159/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858f59b1c6886af63997b08c2e1b2056/twitter-core-3.1.1/AndroidManifest.xml:29:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/9e8e3c53512d7719f31471f6077088de/jetified-firebase-database-17.0.0/AndroidManifest.xml:31:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef5f2f93cbe52cd617bceb574dc91358/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ef83e879d311874d6c8b0472a12119cc/jetified-firebase-iid-17.1.2/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/8ffa723a662a3fbb11e7d58b432b3b08/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/aac2ac56bf0878e0b101003817392985/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/858b9aec28b4c3dbe15daa291cf573d8/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/147c96c3edf947ac815ccc15696faedd/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/62589e3f769cf18a403401fe184d29c3/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/43d8d0b89fbfb916b3fb60a8594b9b94/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/506d86a76c731d4ce4ac2a208b2f99d6/jetified-play-services-basement-16.2.0/AndroidManifest.xml:24:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/f96e487950614a6a1e3242c35c7ddadc/jetified-facebook-common-4.39.0/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /home/vaibhav/.gradle/caches/transforms-2/files-2.1/ba8344bf8970aaeffa9ea9126c8f8cc2/jetified-facebook-core-4.39.0/AndroidManifest.xml:48:25-92
